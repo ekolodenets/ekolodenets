@@ -2,8 +2,7 @@
 - 👀 I’m interested in programming in Python
 - 🌱 I’m currently learning Python
 
-[brightgree]:https://www.codewars.com/users/Ekolodenets/badges/large
-[brightgreen]: https://img.shields.io/badge/brightgreen-brightgreen.svg
+package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
 
 <!---
 ekolodenets/ekolodenets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
