@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in Python
 - 🌱 I’m currently learning Python
 
-[brightgreen]:https://www.codewars.com/users/Ekolodenets/badges/large
+[brightgree]:https://www.codewars.com/users/Ekolodenets/badges/large
 [brightgreen]: https://img.shields.io/badge/brightgreen-brightgreen.svg
 
 <!---
