@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in Python
 - 🌱 I’m currently learning Python
 
-package manager release: ![gem](https://www.codewars.com/users/Ekolodenets/badges/small)
+ ![gem](https://www.codewars.com/users/Ekolodenets/badges/small)
 
 <!---
 ekolodenets/ekolodenets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
