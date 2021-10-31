@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in Python
 - 🌱 I’m currently learning Python
 
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 [https://www.codewars.com/users/Ulsa/badges/small]
 <!---
