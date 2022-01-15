@@ -16,7 +16,6 @@
 <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
 
 <!-- </details> -->
-
-![visitors] (https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets)
 <!-- more icons here -> https://github.com/gautamkrishnar/gautamkrishnar/edit/master/README.md -->
 <!-- https://github.com/devicons/devicon -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets)
