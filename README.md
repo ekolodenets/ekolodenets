@@ -17,6 +17,6 @@
 
 <!-- </details> -->
 
-<!-- ![visitors] (https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets) -->
+![visitors] (https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets)
 <!-- more icons here -> https://github.com/gautamkrishnar/gautamkrishnar/edit/master/README.md -->
 <!-- https://github.com/devicons/devicon -->
