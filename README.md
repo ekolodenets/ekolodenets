@@ -4,6 +4,8 @@
  
  <a href="https://www.codewars.com/users/Ekolodenets" alt="Ekolodenets"><img src="https://www.codewars.com/users/Ekolodenets/badges/large" /></a>
  
+**My Contacts**:
+<br><a href="https://www.linkedin.com/in/evgeny-kolodenets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
