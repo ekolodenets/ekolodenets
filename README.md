@@ -1,8 +1,10 @@
+
+![logo](https://github.com/ekolodenets/ekolodenets/blob/main/Logo.jpg)
 - 👋 Hi, I’m Evgeny Kolodenets
 - 👀 I’m interested in programming in Python
 - 🌱 I’m currently learning QA
  
- <a href="https://www.codewars.com/users/Ekolodenets" alt="Ekolodenets"><img src="https://www.codewars.com/users/Ekolodenets/badges/large" /></a>
+ <a href="https://www.codewars.com/users/Ekolodenets" alt="Ekolodenets"><img src="https://www.codewars.com/users/Ekolodenets/badges/small" /></a>
  
 **Contacts**:
 <br><a href="https://www.linkedin.com/in/evgeny-kolodenets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
