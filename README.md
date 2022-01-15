@@ -18,12 +18,19 @@
 <!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
 
-<!-- </details> -->
 <!-- more icons here -> https://github.com/gautamkrishnar/gautamkrishnar/edit/master/README.md -->
 <!-- https://github.com/devicons/devicon -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets)
+
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets)](https://github.com/anuraghazra/github-readme-stats)
-<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekolodenets&show_icons=true)  
+
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ekolodenets)   -->
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets)  
+
 <!-- ![Profile views](https://gpvc.arturio.dev/ekolodenets)   -->
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets) -->
+
+<details>
+ <summary>:zap: GitHub Stats</summary>
+  <img  alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&show_icons=true" /><br>
+  <img  alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets" /><br>
+  <img  alt="Ekolodenets's Stats" src="https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets" />
+</details>
