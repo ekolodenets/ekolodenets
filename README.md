@@ -1,5 +1,6 @@
 
-![logo](https://github.com/ekolodenets/ekolodenets/blob/main/Logo.jpg)
+![logo](https://github.com/ekolodenets/ekolodenets/blob/main/logo_.jpg)
+
 - 👋 Hi, I’m Evgeny Kolodenets
 - 👀 I’m interested in programming in Python
 - 🌱 I’m currently learning QA
@@ -20,4 +21,9 @@
 <!-- </details> -->
 <!-- more icons here -> https://github.com/gautamkrishnar/gautamkrishnar/edit/master/README.md -->
 <!-- https://github.com/devicons/devicon -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets)](https://github.com/anuraghazra/github-readme-stats)
+<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekolodenets&show_icons=true)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ekolodenets)   -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets)  
+<!-- ![Profile views](https://gpvc.arturio.dev/ekolodenets)   -->
