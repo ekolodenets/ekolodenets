@@ -49,7 +49,7 @@ How are You?
 <br><br>
 
 <details>
- <summary><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>GitHub Stats</summary><br>
+ <summary><a href="#"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></a>GitHub Stats</summary><br>
   <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&hide=contribs,prs,stars,issues&theme=city_lights&bg_color=0d1117&show_icons=true"/><br><br>
   <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets&theme=blueberry_duo&show_icons=true"/><br><br>
  <img align="center" alt="Ekolodenets's Stats" src="https://activity-graph.herokuapp.com/graph?username=ekolodenets&theme=react-dark"/>
