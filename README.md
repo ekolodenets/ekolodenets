@@ -17,24 +17,31 @@
 <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> -->
 <!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets)](https://github.com/ekolodenets)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets&theme=dark&show_icons=true)](https://github.com/ekolodenets)
 
  <a href="https://github.com/ekolodenets/qa/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ekolodenets/qa?color=0088ff" />
     </a>
 <br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark&show_icons=true" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=github-readme-stats&theme=dark&show_icons=true" />
+</a>
+
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekolodenets&hide=contribs,prs) -->
 
 
 <details>
  <summary>:zap: GitHub Stats</summary>
-  <img  alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&show_icons=true" /><br>
-  <img  alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets" /><br>
-  <img  alt="Ekolodenets's Stats" src="https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets" />
+  <img  alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&&theme=dark&show_icons=true" /><br>
+  <img  alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets&theme=dark&show_icons=true" /><br>
+  <img  alt="Ekolodenets's Stats" src="https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets&theme=dark&show_icons=true" />
 </details>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets&layout=compact)](https://github.com/ekolodenets) -->
