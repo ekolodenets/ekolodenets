@@ -1,43 +1,38 @@
+<div align="center"><img  src="https://github.com/ekolodenets/ekolodenets/blob/main/logo_.jpg" /></div>
+<img src="http://hits.dwyl.com/ekolodenets/ekolodenets.svg?style=flat" />
 
-![logo](https://github.com/ekolodenets/ekolodenets/blob/main/logo_.jpg)
+<p align="center">
+    <img src="https://img.shields.io/badge/Age-35-blue" />
+    <img src="https://img.shields.io/badge/Interest-Python-brightgreen" />
+    <img src="https://img.shields.io/badge/Corrently%20learning-QA-success" />
+    <img src="https://img.shields.io/badge/Lives-Belarus-success" />
+    <img src="https://img.shields.io/badge/Languages-Russian%20Polish%20English-brightgreen" />
+</p>
 
-- 👋 Hi, I’m Evgeny Kolodenets
-- 👀 I’m interested in programming in Python
-- 🌱 I’m currently learning QA
+<hr><h1 align="center">Hi, I’m Evgeny Kolodenets</h1><hr>
+
+<div align="center"><a href="https://www.codewars.com/users/Ekolodenets" alt="Ekolodenets"><img src="https://www.codewars.com/users/Ekolodenets/badges/large" /></a></div>
  
-<a href="https://www.codewars.com/users/Ekolodenets" alt="Ekolodenets"><img src="https://www.codewars.com/users/Ekolodenets/badges/small" /></a>
- 
-**Contacts**:
-<br><a href="https://www.linkedin.com/in/evgeny-kolodenets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+**Contacts**:<br>
+<a href="https://www.linkedin.com/in/evgeny-kolodenets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 **Languages and Tools:**
 <br><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="bash" width="40" height="40"/></a>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets&theme=city_lights&bg_color=0d1117&show_icons=true)](https://github.com/ekolodenets)
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets&theme=dark&show_icons=true)](https://github.com/ekolodenets)
 
-
-**Pinned repos:**
-
+**Pinned repos:**<br>
 <a href="https://github.com/ekolodenets/qa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=qa&theme=dark&show_icons=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=qa&theme=city_lights&bg_color=0d1117&show_icons=true" /></a>
 <a href="https://github.com/ekolodenets/brutto2netto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=brutto2netto&theme=dark&show_icons=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=brutto2netto&theme=city_lights&bg_color=0d1117&show_icons=true" /></a>
 <br><br>
+
 <details>
  <summary>:zap: GitHub Stats</summary><br>
-  <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&hide=contribs,prs,stars,issues&theme=dark&show_icons=true" height="160" />
-  <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets&theme=dark&show_icons=true" height="160"/>
-  
+  <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&hide=contribs,prs,stars,issues&theme=city_lights&bg_color=0d1117&show_icons=true"/><br><br>
+  <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets&theme=blueberry_duo&show_icons=true"/><br><br>
+ <img align="center" alt="Ekolodenets's Stats" src="https://activity-graph.herokuapp.com/graph?username=ekolodenets&theme=react-dark"/>
 </details>
-<img  alt="Ekolodenets's Stats" src="https://visitor-badge.glitch.me/badge?page_id=ekolodenets&theme=dark&show_icons=true"/>
-<!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> -->
-<!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets&layout=compact)](https://github.com/ekolodenets) -->
-<!-- more icons here -> https://github.com/gautamkrishnar/gautamkrishnar/edit/master/README.md -->
-<!-- https://github.com/devicons/devicon -->
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ekolodenets)   -->
-<!-- ![Profile views](https://gpvc.arturio.dev/ekolodenets)   -->
-<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ekolodenets.ekolodenets) -->
