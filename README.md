@@ -1,14 +1,13 @@
-<div align="center"><img  src="https://github.com/ekolodenets/ekolodenets/blob/main/logo_.jpg" /></div>
-
-<p><img src="https://visitor-badge.laobi.icu/badge?page_id=ekolodenets" />
-<img src="http://hits.dwyl.com/ekolodenets/ekolodenets.svg?style=flat" /></p>
+<div align="center"><img  src="https://github.com/ekolodenets/ekolodenets/blob/main/logo_d.png" /></div>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Age-35-blue" />
     <img src="https://img.shields.io/badge/Interest-Python-brightgreen" />
     <img src="https://img.shields.io/badge/Corrently%20learning-QA-success" />
-    <img src="https://img.shields.io/badge/Lives-Belarus-success" />
-    <img src="https://img.shields.io/badge/Languages-Russian%20Polish%20English-brightgreen" />
+    <img src="https://img.shields.io/badge/Live%20in-Belarus-success" />
+    <img src="https://img.shields.io/badge/Languages-Russian%20Polish%20English-brightgreen" /><br>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ekolodenets" />
+<img src="http://hits.dwyl.com/ekolodenets/ekolodenets.svg?style=flat" />
 </p>
 
 <hr><h1 align="center">Hi, I’m Evgeny</h1><hr>
