@@ -1,5 +1,7 @@
 <div align="center"><img  src="https://github.com/ekolodenets/ekolodenets/blob/main/logo_.jpg" /></div>
-<img src="http://hits.dwyl.com/ekolodenets/ekolodenets.svg?style=flat" />
+
+<p><img src="https://visitor-badge.laobi.icu/badge?page_id=ekolodenets" />
+<img src="http://hits.dwyl.com/ekolodenets/ekolodenets.svg?style=flat" /></p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Age-35-blue" />
@@ -31,8 +33,9 @@
 <br><br>
 
 <details>
- <summary>:zap: GitHub Stats</summary><br>
+ <summary><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>GitHub Stats</summary><br>
   <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&hide=contribs,prs,stars,issues&theme=city_lights&bg_color=0d1117&show_icons=true"/><br><br>
   <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets&theme=blueberry_duo&show_icons=true"/><br><br>
  <img align="center" alt="Ekolodenets's Stats" src="https://activity-graph.herokuapp.com/graph?username=ekolodenets&theme=react-dark"/>
 </details>
+
