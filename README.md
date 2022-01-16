@@ -11,22 +11,6 @@
     <img src="https://img.shields.io/badge/Languages-Russian%20Polish%20English-brightgreen" />
 </p>
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Signika&display=swap" rel="stylesheet">
-
-<!-- <font face="Signika" size="20px" color="#FF7A59">Your text here.</font> -->
-<Body>
-<font face="Consolas">
-Hello JavaTpoint! <br> 
-</font>
-<font face="Arial">
-Hello User! <br>
-How are You?  
-</font>
-</Body>
-
-</p>
 <hr><h1 align="center">Hi, I’m Evgeny</h1><hr>
 
 <div align="center"><a href="https://www.codewars.com/users/Ekolodenets" alt="Ekolodenets"><img src="https://www.codewars.com/users/Ekolodenets/badges/large" /></a></div>
