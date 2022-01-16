@@ -26,8 +26,8 @@
 <br><br>
 <details>
  <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&&theme=dark&show_icons=true" width="480"/>
-  <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets&theme=dark&show_icons=true" width="480"/>
+  <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&&theme=dark&show_icons=true" width="400"/>
+  <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets&theme=dark&show_icons=true" width="400"/>
   <br><br>
   <img  alt="Ekolodenets's Stats" src="https://visitor-badge.glitch.me/badge?page_id=ekolodenets&theme=dark&show_icons=true"/>
 </details>
