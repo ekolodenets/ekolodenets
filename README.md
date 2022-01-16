@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekolodenets&hide=contribs,prs)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekolodenets&hide=contribs,prs) -->
 
 
 <details>
