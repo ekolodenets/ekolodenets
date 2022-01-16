@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Languages-Russian%20Polish%20English-brightgreen" />
 </p>
 
-<hr><h1 align="center">Hi, I’m Evgeny Kolodenets</h1><hr>
+<hr><h1 align="center">Hi, I’m Evgeny</h1><hr>
 
 <div align="center"><a href="https://www.codewars.com/users/Ekolodenets" alt="Ekolodenets"><img src="https://www.codewars.com/users/Ekolodenets/badges/large" /></a></div>
  
