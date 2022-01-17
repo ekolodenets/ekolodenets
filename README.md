@@ -1,4 +1,4 @@
-<div align="center"><img  src="https://github.com/ekolodenets/ekolodenets/blob/main/logo_d.png" /></div>
+<div align="center"><img  src="docs/logo_d.png" /></div>
 
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Age-35-blue" /></a>
@@ -20,7 +20,7 @@
 **Languages and Tools:**
 <br><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="bash" width="40" height="40"/></a>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<a href="#"><img align="right" width=200px height=200px alt="side_sticker" src="docs/002.gif" /></a>
 <br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets&theme=city_lights&bg_color=0d1117&show_icons=true)](https://github.com/ekolodenets)
 
 
@@ -32,7 +32,7 @@
 <br><br>
 
 <details>
- <summary><a href="#"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/></a>GitHub Stats</summary><br>
+ <summary><a href="#"><img src="docs/001.gif" width="30px"/></a>GitHub Stats</summary><br>
   <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-stats.vercel.app/api?username=ekolodenets&hide=contribs,prs,stars,issues&theme=city_lights&bg_color=0d1117&show_icons=true"/><br><br>
   <img align="center" alt="Ekolodenets's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ekolodenets&theme=blueberry_duo&show_icons=true"/><br><br>
  <img align="center" alt="Ekolodenets's Stats" src="https://activity-graph.herokuapp.com/graph?username=ekolodenets&theme=react-dark"/>
