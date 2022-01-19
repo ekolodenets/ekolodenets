@@ -16,6 +16,7 @@
  
 **Contacts**:<br>
 <a href="https://www.linkedin.com/in/evgeny-kolodenets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://t.me/ekolodenets" target="blank"><img align="center" src="docs/telegram.png" alt="gautamkrishnar" height="40" width="40" /></a>
 
 **Languages and Tools:**
 <br><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
