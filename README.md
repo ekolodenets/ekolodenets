@@ -28,9 +28,9 @@
 
 **Pinned repos:**<br>
 <a href="https://github.com/ekolodenets/qa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=qa&theme=city_lights&bg_color=0d1117&show_icons=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=qa&theme=city_lights&bg_color=0d1117&show_icons=true" height="140"/></a>
 <a href="https://github.com/ekolodenets/base_generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=base_generator&theme=city_lights&bg_color=0d1117&show_icons=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=base_generator&theme=city_lights&bg_color=0d1117&show_icons=true" height="140"/></a>
 <br>
 
 <details>
