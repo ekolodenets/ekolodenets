@@ -16,7 +16,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
   [![HitCount](http://hits.dwyl.com/ekolodenets/ekolodenets.svg?style=flat)](http://hits.dwyl.com/ekolodenets/ekolodenets)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ekolodenets.ekolodenets)
