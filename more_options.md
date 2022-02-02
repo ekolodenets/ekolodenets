@@ -37,3 +37,30 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 - [Profile](https://github.com/rohit19060 "Rohit jain")
 - [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
 - [Website](https://kingtechnologies.in "Welcome")
+
+[<kbd>Link</kbd>](https://github.com/rohit19060 "Rohit jain")
+
+<details>
+ <summary>Title 1</summary>
+ <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+
+```javascript
+var specificLanguage_code = 
+    {
+        "data": {
+            "lookedUpPlatform": 1,
+            "query": "Kasabian+Test+Transmission",
+            "lookedUpItem": {
+                "name": "Test Transmission",
+                "artist": "Kasabian",
+                "album": "Kasabian",
+                "picture": null,
+                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
+            }
+        }
+    }
+```
+
+
+`This is code`
