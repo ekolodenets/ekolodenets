@@ -21,3 +21,4 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
   [![HitCount](http://hits.dwyl.com/ekolodenets/ekolodenets.svg?style=flat)](http://hits.dwyl.com/ekolodenets/ekolodenets)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ekolodenets.ekolodenets)
 
+смайлы https://www.webfx.com/tools/emoji-cheat-sheet/
