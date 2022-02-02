@@ -22,3 +22,18 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ekolodenets.ekolodenets)
 
 смайлы https://www.webfx.com/tools/emoji-cheat-sheet/
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :----------- | :------------: | ------------: |
+| git status   |   git status   |    git status |
+| git diff     |    git diff    |      git diff |
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+> This is a Blockquote
+
+- [Profile](https://github.com/rohit19060 "Rohit jain")
+- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
+- [Website](https://kingtechnologies.in "Welcome")
