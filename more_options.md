@@ -24,6 +24,8 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 
 смайлы https://www.webfx.com/tools/emoji-cheat-sheet/
 
+
+
 | Left-aligned | Center-aligned | Right-aligned |
 | :----------- | :------------: | ------------: |
 | git status   |   git status   |    git status |
@@ -65,3 +67,21 @@ var specificLanguage_code =
 
 
 `This is code`
+
+[Simple Icons](https://github.com/simple-icons/simple-icons)
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/478/287/d59/478287d5922b73775dd1c2afde91a989.png" alt="альтернативный текст">
+
+[Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/740/7ce/1b8/7407ce1b85d2892568e52e34e6050049.png" alt="альтернативный текст">
+
+[Shields.io](https://github.com/badges/shields)
+
+[Metrics](https://github.com/lowlighter/metrics)
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/cc6/39d/8eb/cc639d8ebc43596cd02fb6e639c4ed50.png" alt="альтернативный текст">
+
+[GitHub Stats Terminal Style ](https://github.com/yogeshwaran01/github-stats-terminal-style)
+<img src="https://habrastorage.org/getpro/habr/upload_files/550/054/138/550054138309bfa0699e06bc6ba4a85e.gif" alt="альтернативный текст">
+
+[snk](https://github.com/Platane/snk)
+<img src="https://habrastorage.org/getpro/habr/upload_files/5ff/bcb/03a/5ffbcb03abb1ccfaa54a6c2055e0fe58.gif" alt="альтернативный текст">
+
