@@ -68,6 +68,10 @@ var specificLanguage_code =
 
 `This is code`
 
+[![](https://img.shields.io/badge/bash-blue.svg?style=for-the-badge)](https://github.com/ekolodenets/qa/edit/main/README.md#bash)
+[![](https://img.shields.io/badge/bash-%23ed8b00.svg?style=for-the-badge)](https://github.com/ekolodenets/qa/edit/main/README.md#bash)
+
+
 [Shields.io](https://github.com/badges/shields)
 
 
