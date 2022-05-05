@@ -1,7 +1,7 @@
 <div align="center"><img  src="docs/logo_d.png" /></div>
 
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Age-35-blue" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Age-36-blue" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Interest-Python-brightgreen" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Corrently%20learning-QA-success" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Live%20in-Belarus-success" /></a>
