@@ -32,6 +32,7 @@
 <br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekolodenets&theme=city_lights&bg_color=0d1117&show_icons=true)](https://github.com/ekolodenets)
 
 
+<!--
 **Pinned repos:**<br>
 
 <a href="https://github.com/ekolodenets/qa">
@@ -42,9 +43,8 @@
   
 <a href="https://github.com/ekolodenets/flask_project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekolodenets&repo=flask_project&theme=city_lights&bg_color=0d1117&show_icons=true" height="120"/></a>
+-->
 
-  
-<br>
 <br>
 <details>
  <summary><a href="#"></a>GitHub Stats</summary><br>
