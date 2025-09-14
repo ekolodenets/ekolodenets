@@ -21,10 +21,9 @@
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">](https://www.python.org 'Python')
 [<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="40" height="40">](https://git-scm.com/ 'Git')
-[<img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" width="40" height="40">](https://github.com/ekolodenets 'GitHub')
+[<img src="https://camo.githubusercontent.com/79256dafb2a4640d2ef03249a1afc716cc5de12f2082b0b82c692b0163f6a955/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" width="40" height="40">](https://github.com/ekolodenets 'GitHub')
 [<img src="https://github.com/ekolodenets/ekolodenets/blob/2497fa37d4353393bce252f9676240a601774a12/docs/postman.png" width="40" height="40">](https://www.postman.com 'Postman')
 [<img src="https://github.com/ekolodenets/ekolodenets/blob/8aa3cc97f15f9fcd96fae0118eb358ae30e54b8d/docs/elephant.png" width="40" height="40">](https://www.postgresql.org/ 'PostgreSQL')
-
 
 
 <a href="#"><img align="right" width=200px height=200px alt="side_sticker" src="docs/002.gif" /></a>
