@@ -1,13 +1,12 @@
 <div align="center"><img  src="docs/logo_d.png" /></div>
 
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Age-36-blue" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Age-39-blue" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Interest-Python-brightgreen" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Corrently%20learning-QA-success" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Live%20in-Poland-success" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Languages-Russian%20Polish%20English-brightgreen" /></a><br>
     <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=ekolodenets" /></a>
-    <a href="#"><img src="http://hits.dwyl.com/ekolodenets/ekolodenets.svg?style=flat" /></a>
 </p>
 
 <hr><h1 align="center">Hi, I’m Evgeny</h1><hr>
